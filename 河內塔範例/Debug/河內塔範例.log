@@ -1,0 +1,16 @@
+﻿已經開始建置於 2015/11/29 下午 11:37:01。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\User\Documents\Visual Studio 2015\Projects\河內塔範例\河內塔範例\河內塔範例.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\河內塔範例.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\河內塔範例.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "河內塔範例.cpp"
+         河內塔範例.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\Visual Studio 2015\Projects\河內塔範例\Debug\河內塔範例.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\User\Documents\Visual Studio 2015\Projects\河內塔範例\Debug\河內塔範例.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\Visual Studio 2015\Projects\河內塔範例\Debug\河內塔範例.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\河內塔範例.obj"
+         河內塔範例.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\河內塔範例\Debug\河內塔範例.exe
+     1>專案 "C:\Users\User\Documents\Visual Studio 2015\Projects\河內塔範例\河內塔範例\河內塔範例.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:05.88
